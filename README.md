@@ -8,7 +8,15 @@ I have added alt tags for images and icons, and changed some elements to semanti
 
 ## Usage
 
-````md
-    ![alt text](assets/images/screenshot.png)
-    ```
-````
+![Deployed live page](https://hope428.github.io/horiseon-accessibility-refactor/)
+
+![Github Repo](https://github.com/hope428/horiseon-accessibility-refactor)
+
+![screenshot of webpage](assets/images/screenshot.png) 
+
+## Credits
+
+Leon Forsythe (accessibility and semantic HTML)
+Penn Bootcamp team (starter code)
+
+
